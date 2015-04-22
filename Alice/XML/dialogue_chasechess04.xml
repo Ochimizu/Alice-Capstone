@@ -1,0 +1,62 @@
+<dialogue>
+	<speech>
+		<character>???</character>
+		<line>"Oh!"</line>
+	</speech>
+	<speech>
+		<character>???</character>
+		<line>"Do you happen to know where we are?"</line>
+	</speech>
+	<speech>
+		<character>Mysterious Figure</character>
+		<line>"...Wonderland, my dear Alice"</line>
+	</speech>
+	<speech>
+		<character>???</character>
+		<line>"Wonder- Alice? Who are you speaking to?"</line>
+	</speech>
+	<speech>
+		<character>???</character>
+		<line>*There doesn't seem to be anyone else around...*</line>
+	</speech>
+	<speech>
+		<character>Mysterious Figure</character>
+		<line>"Who? Who other than you, Alice."</line>
+	</speech>
+	<speech>
+		<character>Alice?</character>
+		<line>"I'm not Alice though, my name is..."</line>
+	</speech>
+	<speech>
+		<character>Alice?</character>
+		<line>"...Huh?"</line>
+	</speech>
+	<speech>
+		<character>Mysterious Figure</character>
+		<line>"Odd, there is no one here by the name 'Huh'."</line>
+	</speech>
+	<speech>
+		<character>Chess</character>
+		<line>"There is only you, Alice, and I, Chess."</line>
+	</speech>
+	<speech>
+		<character>Alice</character>
+		<line>"Bu-"</line>
+	</speech>
+	<speech>
+		<character>Chess</character>
+		<line>"Now if we continue this chat I'll be late for tea time."</line>
+	</speech>
+	<speech>
+		<character>Alice</character>
+		<line>....</line>
+	</speech>
+	<speech>
+		<character>Chess</character>
+		<line>"Much better. Beyond here is Claret Grove, if you wish to leave this forest going through here is the fastest way."</line>
+	</speech>
+	<speech>
+		<character>Chess</character>
+		<line>"I suggest you be careful, nothing in this forest will take a liking to you."</line>
+	</speech>
+</dialogue>
