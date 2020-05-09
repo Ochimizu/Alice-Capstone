@@ -1,4 +1,4 @@
-# Project Alice?
+# Project Alice
 This project was created as my Capstone for Humber College. The purpose of this was to demonstrate our abilities in designing 
 and developing a prototype. I chose to use Unreal Engine 4 as I enjoyed programming in C++ and wanted to try working with the engine.
 
